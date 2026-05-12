@@ -1,23 +1,21 @@
-<div align="center">
 
-# hey, i'm YOUR NAME
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&pause=1000&color=999999&center=true&vCenter=true&width=500&lines=building+stuff+on+the+internet;probably+breaking+something;trying+to+make+cool+things" />
+### 🧑🏼‍💻 hey, ich bins benni!
+
+<div align="right">
+  
+<img src="<img width="1906" height="3355" alt="Objekt 2" src="https://github.com/user-attachments/assets/4242f632-888c-417b-8dde-8922fb881418" />
 
 </div>
 
----
+## über mich
 
-## about me
+klar könnte ich jetzt sagen wie seitdem ich kind bin fasziniert von computern bin aber das ist immer das gleiche. 
+noch besser ist aber wie ich davon erzähle das ich immernoch am lernen bin wie man effizient programmiert, weil sind wir mal ehrlich
+nicht jeder kann mit **13 TempleOS** nachbauen. Zumindest ich nicht. Ich hab zu diesen Zeitpunkt lieber mit Playmobil gespielt! :)
 
-```txt
-developer from SOMEWHERE
+- 🚅 Ich liebe Züge und transport sachen. (Für meine Mum auch das mobile DB Reisezentrum)
+- 🗺️ Ich liebe die Welt zu erkunden
+- 💻 **CSS** bereitet mir Stress zu
 
-currently:
-- building: something cool
-- learning: whatever interests me this week
-- listening to: your favorite album here
-- drinking: coffee probably
-
-interests:
-design / code / music / startups / games / weird ideas<img width="1906" height="3355" alt="Objekt 2" src="https://github.com/user-attachments/assets/8e4eb69c-ef77-479e-a13c-08cb20eb769d" />
+Wenn ihr Ideen habt um mir zu helfen, **bitte** scheut euch nicht mich zu `pingen`
