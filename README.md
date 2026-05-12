@@ -1,21 +1,24 @@
+<table>
+<tr>
+<td valign="top">
 
+## 🧑🏼‍💻 hey, ich bins benni!
 
-### 🧑🏼‍💻 hey, ich bins benni!
-
-<div align="right">
-  
-<img style="width:300px; height:auto;" alt="Objekt 2" src="https://github.com/user-attachments/assets/4242f632-888c-417b-8dde-8922fb881418" />
-
-</div>
-
-## über mich
+# über mich
 
 klar könnte ich jetzt sagen wie seitdem ich kind bin fasziniert von computern bin aber das ist immer das gleiche. 
-noch besser ist aber wie ich davon erzähle das ich immernoch am lernen bin wie man effizient programmiert, weil sind wir mal ehrlich
-nicht jeder kann mit **13 TempleOS** nachbauen. Zumindest ich nicht. Ich hab zu diesen Zeitpunkt lieber mit Playmobil gespielt! :)
+noch besser ist aber wie ich davon erzähle das ich immernoch am lernen bin wie man effizient programmiert.
 
-- 🚅 Ich liebe Züge und transport sachen. (Für meine Mum auch das mobile DB Reisezentrum)
+- 🚅 Ich liebe Züge und transport sachen.
 - 🗺️ Ich liebe die Welt zu erkunden
-- 💻 **CSS** bereitet mir Stress zu
+- 💻 CSS bereitet mir Stress zu
 
-Wenn ihr Ideen habt um mir zu helfen, **bitte** scheut euch nicht mich zu `pingen`
+</td>
+
+<td valign="top">
+
+<img width="450" src="https://github.com/user-attachments/assets/4242f632-888c-417b-8dde-8922fb881418" />
+
+</td>
+</tr>
+</table>
