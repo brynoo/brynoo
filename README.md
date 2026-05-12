@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**brynoo/brynoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey, i'm YOUR NAME
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&pause=1000&color=999999&center=true&vCenter=true&width=500&lines=building+stuff+on+the+internet;probably+breaking+something;trying+to+make+cool+things" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## about me
+
+```txt
+developer from SOMEWHERE
+
+currently:
+- building: something cool
+- learning: whatever interests me this week
+- listening to: your favorite album here
+- drinking: coffee probably
+
+interests:
+design / code / music / startups / games / weird ideas<img width="1906" height="3355" alt="Objekt 2" src="https://github.com/user-attachments/assets/8e4eb69c-ef77-479e-a13c-08cb20eb769d" />
